@@ -1,5 +1,5 @@
 # Eng-to-HIN-Translator
-This project is a technology demonstrator for performing English to Hindi translation on images using OCR using pre-trained model. The project uses pre-trained offline models for translation and OCR . To change pre-trained model path change translator.py and utils.py . Use notepad provided to generate translation model
+This project is a technology demonstrator for performing English to Hindi translation on images using OCR using pre-trained model. The project uses pre-trained offline models for translation and OCR . To change pre-trained model path change translator.py and utils.py . Use notepad provided to generate translation model .
 
 Screeenshots:
 ![Screenshot 2024-04-03 230534](https://github.com/Abhigyan126/Eng-to-HIN-Translator/assets/108809711/be4494e4-3be7-4969-a94b-515d8910295b)
